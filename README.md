@@ -3,7 +3,7 @@ NodeJS ExpressJS Javascript VSCode Snake Game
 
 https://AytacAgma.github.io/NodeJS-ExpressJS-VSCode-Snake-Game/ 
 
-### Game Keybord Controls: ###
+### Game Keyboard Controls: ###
 Left Arrow,
 Right Arrow,
 Up Arrow,
